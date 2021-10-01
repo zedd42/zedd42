@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## “Truth can only be found in one place: the code.”
+― Robert C. Martin, Clean Code
+
 <!--
 **zedd42/zedd42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
